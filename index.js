@@ -31,12 +31,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
+  console.log(`🔗 Listening to .patchyy: http://localhost:${port}`);
   console.log(`🔗 Powered By RTX`);
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["❤️ Listening to itssouljaaa","Developed by .patchyy with ❤️"];
 
 
 let currentIndex = 0;
